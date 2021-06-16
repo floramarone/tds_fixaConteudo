@@ -1,7 +1,14 @@
 olá mundo, aqui é a Flora.
+<<<<<<< HEAD
 eu
 sou
 do
 curso
 de
 TDS
+=======
+ahsdhashd
+ahsdhasdha
+hasdhasdh
+ahsdahsd
+>>>>>>> f2188dbba5d704bc83e8b6cfd002b63e85a3da8f
